@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: Directorist - Listing QR Code
- * Plugin URI: https://exlac.com/
+ * Plugin URI: https://wordpress.org/plugins/qr-code-directorist/
  * Description: This is an extension for Directorist Plugin. You can display listing QR Code of a listing easily by this extension.
- * Version: 0.1.1
+ * Version: 0.1.2
  * Author: Exlac
  * Author URI: https://exlac.com
  * License: GPLv2 or later

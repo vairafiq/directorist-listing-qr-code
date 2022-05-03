@@ -1,10 +1,10 @@
-=== Directorist - Listing QR Code ===
+=== Listing QR Code for Directorist ===
 Contributors:      exlac
 Tags:              directorist, listing qr, qr code, directorist qr
 Requires at least: 5.7
 Tested up to:      5.9
 Requires PHP:      7.0
-Stable tag:        0.1.1
+Stable tag:        0.1.2
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 Donate link:       https://exlac.com/
@@ -36,7 +36,7 @@ If you need support, please use the support forum to reach out. 🆘
 == STEP BY STEP GUIDE: ==
 
 Step 1: Install the Directorist plugin 
-Step 2: Install Directorist - Listing QR Code
+Step 2: Install Listing QR Code for Directorist
 Step 3: Navigate to Directorist → Directory Builder → Add Listing Form → Use `QR Code` field → Single Page Layout → Contents → Use `QR Code` field.
 
 == Installation ==
@@ -46,6 +46,10 @@ Step 3: Navigate to Directorist → Directory Builder → Add Listing Form → U
 3. Use the `Add New` button in the Block Editor toolbar when needed.
 
 == Changelog ==
+
+= 0.1.2 - May 4, 2022 =
+
+* Display name updated
 
 = 0.1.0 - April 7, 2022 =
 
